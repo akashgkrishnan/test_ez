@@ -1,0 +1,120 @@
+2020-05-21 19:34:51,570 :CRITICAL : call_fixture_func :assert 4002 == 400
+  +4002
+  -400
+2020-05-21 19:34:51,980 :INFO : call_fixture_func :Got 2000 on hitting seller details with token
+2020-05-21 19:34:51,980 :INFO : call_fixture_func :Got 2000 on hitting seller details with token
+2020-05-21 19:34:52,386 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:52,386 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:52,386 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:52,753 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:52,753 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:52,753 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:52,753 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:53,033 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:53,033 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:53,033 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:53,033 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:53,033 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:53,314 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:53,314 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:53,314 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:53,314 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:53,314 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:53,314 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:53,701 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:53,701 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:53,701 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:53,701 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:53,701 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:53,701 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:34:53,701 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:11,125 :CRITICAL : call_fixture_func :assert 4002 == 40
+  +4002
+  -40
+2020-05-21 19:35:11,537 :INFO : call_fixture_func :Got 2000 on hitting seller details with token
+2020-05-21 19:35:11,537 :INFO : call_fixture_func :Got 2000 on hitting seller details with token
+2020-05-21 19:35:11,912 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:11,912 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:11,912 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:12,355 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:12,355 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:12,355 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:12,355 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:12,767 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:12,767 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:12,767 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:12,767 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:12,767 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:13,082 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:13,082 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:13,082 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:13,082 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:13,082 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:13,082 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:13,470 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:13,470 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:13,470 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:13,470 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:13,470 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:13,470 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:13,470 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:37,750 :CRITICAL : call_fixture_func :assert 4002 == 'alasj'
+  +4002
+  -'alasj'
+2020-05-21 19:35:38,161 :INFO : call_fixture_func :Got 2000 on hitting seller details with token
+2020-05-21 19:35:38,161 :INFO : call_fixture_func :Got 2000 on hitting seller details with token
+2020-05-21 19:35:38,569 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:38,569 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:38,569 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:38,926 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:38,926 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:38,926 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:38,926 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:39,213 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:39,213 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:39,213 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:39,213 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:39,213 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:39,497 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:39,497 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:39,497 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:39,497 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:39,497 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:39,497 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:39,876 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:39,876 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:39,876 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:39,876 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:39,876 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:39,876 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:35:39,876 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:26,827 :CRITICAL : call_fixture_func :assert 4002 == 'alasj'
+  +4002
+  -'alasj'
+2020-05-21 19:36:27,211 :INFO : call_fixture_func :Got 2000 on hitting seller details with token
+2020-05-21 19:36:27,211 :INFO : call_fixture_func :Got 2000 on hitting seller details with token
+2020-05-21 19:36:27,618 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:27,618 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:27,618 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:28,030 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:28,030 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:28,030 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:28,030 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:28,437 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:28,437 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:28,437 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:28,437 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:28,437 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:28,848 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:28,848 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:28,848 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:28,848 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:28,848 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:28,848 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:29,236 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:29,236 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:29,236 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:29,236 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:29,236 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:29,236 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
+2020-05-21 19:36:29,236 :INFO : call_fixture_func :Got 4002 on hitting seller details without token
