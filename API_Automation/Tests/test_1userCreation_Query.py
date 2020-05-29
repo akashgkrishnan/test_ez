@@ -77,7 +77,7 @@ NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NU
 
                 with open(self.login_filename, 'a') as file:
                     csv_writer = writer(file)
-                    csv_writer.writerow([self.user, self.password])
+                    csv_writer.writerow([mobile, 'AkashGKrishnan'])
 
         finally:
             connection.close()
