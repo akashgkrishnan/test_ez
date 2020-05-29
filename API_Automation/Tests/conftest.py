@@ -33,11 +33,14 @@ def setup(request):
         password = csv_Reader[1][1]
 
     #print(f'user: {user}, Password: {password}')
-    URL = 'http://qa1.ezmall.com:20009/oauth/token'
-    data = dict(grant_type='password', username=user, password=password)
-    req = requests.post(url=URL, auth=('client', 'secret'), data=data).json()
-    access_token = req['access_token']
-    request.cls.bearer_token = "Bearer "+ access_token
+    try:
+        URL = 'http://qa1.ezmall.com:20009/oauth/token'
+        data = dict(grant_type='password', username=user, password=password)
+        req = requests.post(url=URL, auth=('client', 'secret'), data=data).json()
+        access_token = req['access_token']
+        request.cls.bearer_token = "Bearer "+ access_token
+    except:
+        pass
     request.cls.user = user
     request.cls.password = password
 
